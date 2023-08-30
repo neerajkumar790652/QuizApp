@@ -1,6 +1,6 @@
 import QuizQues from "./QuizQues";
 import { useEffect, useState } from "react";
-export default function Quiz() {
+export default function Quiz()  {
   let dataSet = [
     {
       question: "what is the captital of India",
